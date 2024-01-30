@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #e1f1ec;
+}
+h1{
+    text-align: center;
+}
+section{
+    border: 1px solid gray;
+    border-radius: 8px;
+    width: 330px;
+    height: 300px;
+    flex-direction: column;
+    display: flex;
+    padding-left: 1rem ;
+    padding-top: 1rem;
+    margin: 80px auto;
+
+}
+#box{
+padding-top: 1rem;
+
+}
+#box div{
+    padding-bottom: 7px;
+    display: flex;
+    justify-content: space-between;
+    width: 220px;
+
+}
+.val{
+
+}
